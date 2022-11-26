@@ -1,0 +1,2 @@
+# Shoppster
+Multimodal Shopping Assistant
